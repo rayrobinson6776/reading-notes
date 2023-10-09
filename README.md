@@ -1,12 +1,8 @@
 # My Learning Journal
 
-Here is my reading notes project. 
+## Growth mindset according to me. 
+#### Growth mindset is a mindset that is not constrained or finite. Having a growth mindset means my abilities can be learned through training and practice. The growth mindset also means that I am able to learn through mistakes, trail and error, and persistance. 
 
-I will put my notes here until I graduate.
-
-What growth mindset means to me is
-
-More growth mindset stuff goes here. 
 
 1. Reminder number one
 2. Numero dos
