@@ -14,4 +14,4 @@ More growth mindset stuff goes here.
 4. more reminders becuase Im extra
 5. lastly
 
-Heres a link to my github portfolio, check it out! https://github.com/rayrobinson6776  
+Heres a link to my [github portfolio](https://github.com/rayrobinson6776), check it out!
