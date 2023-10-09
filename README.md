@@ -1,5 +1,7 @@
 # My Learning Journal
 
+###### My name is Ray Robinson and this is my journey in reinventing myself professionally by learning to code. 
+
 ## Growth mindset according to me. 
 #### Growth mindset is a mindset that is not constrained or finite. Having a growth mindset means my abilities can be learned through training and practice. The growth mindset also means that I am able to learn through mistakes, trail and error, and persistance. 
 
