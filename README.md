@@ -10,5 +10,6 @@
 
 ![Image of a hand writing in a journal](https://get.pxhere.com/photo/notebook-writing-man-book-person-blur-pen-reading-journal-colourful-color-business-paper-education-composition-school-document-notes-adult-knowledge-1176206.jpg)
 
-My name is Ray Robinson :smile:
+My name is Ray Robinson
+
 Heres a link to my [github portfolio](https://github.com/rayrobinson6776), check it out!
