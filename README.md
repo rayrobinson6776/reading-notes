@@ -6,9 +6,9 @@
 
 1. Remember that one of the best ways to success is learning through making mistakes and that mistakes are key to the learning experience. 
 2. Remember that all skills are learned with time, practice, and repitition. 
-3. Embrace challenges and don't be afraid to ask questions when confused or stalled. 
+3. Embrace challenges and don't be afraid to ask questions when confused or stalled.
 
-My name is Ray Robinson 
+![]()
 
-
+My name is Ray Robinson :smile:
 Heres a link to my [github portfolio](https://github.com/rayrobinson6776), check it out!
