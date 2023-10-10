@@ -29,13 +29,23 @@ What do the following commands do?
 
 ##### Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
 
-cd projects
+**cd projects**
 
-mkdir new-project
+*This is telling terminal to change directories and point toward projects folder*
 
-touch new-project/newfile.md
+**mkdir new-project**
 
-cd ..
+*This will allow you to make a new folder (directory) called new-project*
 
-ls projects/new-project
+**touch new-project/newfile.md**
+
+*This will allow you to add a new file to your new-project folder*
+
+**cd ..**
+
+*This will allow you back up to the previous directory*
+
+**ls projects/new-project**
+
+*This will allow you to list the current content of the new-project folder (directory)*
 
