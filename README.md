@@ -17,3 +17,5 @@ My name is Ray Robinson
 Heres a link to my [github portfolio](https://github.com/rayrobinson6776), check it out!
 
 Rays [Reading notes](https://rayrobinson6776.github.io/reading-notes/class1notes)
+
+The [The Coder's Computer](https://rayrobinson6776.github.io/reading-notes/TheCodersComputer)
